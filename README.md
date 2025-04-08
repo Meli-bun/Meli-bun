@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meli-bun
 - 👀 I’m interested in WH40K,MHW and games generally
-- 🌱 I’m currently learning Js,CSS,HTML
+- 🌱 I’m currently learning Js,php,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
